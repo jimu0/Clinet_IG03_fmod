@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EffectPreset" id="{79965043-cf69-4c3a-826e-abe5d9d5abec}">
+		<property name="name">
+			<value>Sidechain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7299215a-f08f-4326-a4d0-3264cc29fcbb}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{7c4b0bb4-e0c8-466d-a028-856c095ab796}</destination>
+		</relationship>
+	</object>
+	<object class="Sidechain" id="{7c4b0bb4-e0c8-466d-a028-856c095ab796}" />
+</objects>

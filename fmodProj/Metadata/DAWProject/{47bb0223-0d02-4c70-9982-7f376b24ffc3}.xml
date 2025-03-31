@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWProject" id="{47bb0223-0d02-4c70-9982-7f376b24ffc3}">
+		<property name="assetPath">
+			<value>reaper工程.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>reaper工程.rpp</value>
+		</property>
+		<property name="renderedAssetsPath">
+			<value>成品</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76bbc6d9-d916-42c0-9248-b03848cb3311}</destination>
+		</relationship>
+	</object>
+</objects>

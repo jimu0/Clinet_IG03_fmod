@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c6475e25-1f18-4926-a31d-61ed2454715e}">
+		<property name="assetPath">
+			<value>倒计时.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.012879818594104</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76bbc6d9-d916-42c0-9248-b03848cb3311}</destination>
+		</relationship>
+	</object>
+</objects>

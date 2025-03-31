@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{75e7f833-e1ae-4233-bc53-c1df01bbaf79}">
+		<property name="name">
+			<value>Bank A</value>
+		</property>
+		<relationship name="folder">
+			<destination>{24b2897f-2f4a-4207-af89-e6615ef2094c}</destination>
+		</relationship>
+		<relationship name="audioTable">
+			<destination>{471be5bd-e44d-424c-bbc6-83b32c55f006}</destination>
+		</relationship>
+	</object>
+	<object class="AudioTable" id="{471be5bd-e44d-424c-bbc6-83b32c55f006}">
+		<property name="note" />
+		<property name="name">
+			<value>Audio Table</value>
+		</property>
+		<property name="sourceDirectory">
+			<value>../../../../../lang</value>
+		</property>
+		<property name="includeSubDirectories">
+			<value>true</value>
+		</property>
+		<property name="isLocalized">
+			<value>true</value>
+		</property>
+	</object>
+</objects>

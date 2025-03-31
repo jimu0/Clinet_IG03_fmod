@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWAsset" id="{c4136474-0481-4d5d-852d-8cae28638cef}">
+		<property name="assetPath">
+			<value>reaper工程.rpp.link/随机语音1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6599319727891158</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76bbc6d9-d916-42c0-9248-b03848cb3311}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{47bb0223-0d02-4c70-9982-7f376b24ffc3}</destination>
+		</relationship>
+	</object>
+</objects>
