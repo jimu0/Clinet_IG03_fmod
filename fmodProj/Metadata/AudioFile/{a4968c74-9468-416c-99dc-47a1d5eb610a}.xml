@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a4968c74-9468-416c-99dc-47a1d5eb610a}">
+		<property name="assetPath">
+			<value>Arpent.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>162.06367346938777</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76bbc6d9-d916-42c0-9248-b03848cb3311}</destination>
+		</relationship>
+	</object>
+</objects>
