@@ -1,0 +1,24 @@
+{75e7f833-e1ae-4233-bc53-c1df01bbaf79} bank:/Bank A
+{315a2fb3-0d54-470f-b910-8702dae11298} bank:/Bank B
+{dd4e4e0a-32c9-4341-a784-1fd64bd87118} bank:/Master
+{45536ede-43b2-0f03-21cd-9528ba2b7780} bank:/Master.strings
+{723663a8-3b07-40c7-8aa3-e14ee4c60bab} bank:/assets
+{52ed09a9-bfc1-4f09-9c99-d979518c514a} bank:/主界面背景
+{31ac0af2-2569-459e-8411-95bb166f411f} bank:/通用点击
+{c94f85b8-0573-4fd1-80cf-8afc81cb90f2} bus:/
+{ae703530-d2db-4f9f-9228-97d09cc757f8} bus:/Reverb
+{9f5278a0-1134-42c0-bd71-a88f1066719b} bus:/music
+{55899009-2c35-423d-8cbb-ceda6300ea80} bus:/vo
+{f5cd569d-a14b-4ed1-87f6-cfb598cc614d} event:/Arpent
+{7800fc4d-2672-4a68-8b07-b4f67e0d017e} event:/back_004
+{82c251a5-7477-4235-85eb-ffeb938a0d48} event:/confirmation_001
+{9b2e2e56-dcd3-4952-8fc7-d7436f51e33f} event:/废土环境
+{41a56498-cb7b-46bc-b3d4-2892b5e4ab10} event:/开场timeline
+{67ebe2d8-a8ab-4738-ae08-3a33b20eba13} event:/特殊消除
+{39f207ef-8413-447e-9c6d-d2c9078381ab} event:/紧张 G2
+{7d0f3984-5d52-4957-b643-586011ff6266} event:/随机语音play
+{9e99af31-6003-47e3-a36d-3fe60230d16c} parameter:/clear
+{34706518-0293-4c29-b220-4f73b0d6fcad} parameter:/levelctrl
+{67f307f2-c9ac-43dc-9109-de38d90f1dce} parameter:/switch
+{2bdac1c5-4211-4656-9875-b6e7f60edde5} parameter:/switchmusic
+{80747dbc-2b19-4b63-a94a-a089ebc64060} vca:/New VCA
