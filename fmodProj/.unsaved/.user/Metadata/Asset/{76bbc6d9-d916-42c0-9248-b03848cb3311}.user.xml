@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
-	<object class="MasterAssetFolder" id="{76bbc6d9-d916-42c0-9248-b03848cb3311}">
-		<property name="dawProjectSourceDirectory">
-			<value>../../cri/reaper工程</value>
-		</property>
-	</object>
-</objects>
