@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{67ebe2d8-a8ab-4738-ae08-3a33b20eba13}">
 		<property name="name">
-			<value>特殊消除</value>
+			<value>其他_特殊消除</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

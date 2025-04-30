@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Bank" id="{52ed09a9-bfc1-4f09-9c99-d979518c514a}">
 		<property name="name">
-			<value>主界面背景</value>
+			<value>CG背景</value>
 		</property>
 		<relationship name="folder">
 			<destination>{24b2897f-2f4a-4207-af89-e6615ef2094c}</destination>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{39f207ef-8413-447e-9c6d-d2c9078381ab}">
 		<property name="name">
-			<value>紧张 G2</value>
+			<value>CG_开场追逐</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

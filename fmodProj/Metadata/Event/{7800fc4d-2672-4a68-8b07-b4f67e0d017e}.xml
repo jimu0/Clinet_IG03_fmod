@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{7800fc4d-2672-4a68-8b07-b4f67e0d017e}">
 		<property name="name">
-			<value>back_004</value>
+			<value>通用_返回</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9b2e2e56-dcd3-4952-8fc7-d7436f51e33f}">
 		<property name="name">
-			<value>废土环境</value>
+			<value>Level_废土背景</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

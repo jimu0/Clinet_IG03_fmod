@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{82c251a5-7477-4235-85eb-ffeb938a0d48}">
 		<property name="name">
-			<value>confirmation_001</value>
+			<value>通用_点击</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
